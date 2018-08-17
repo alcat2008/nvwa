@@ -1,5 +1,7 @@
 # nvwa
 
+Magic thing to be an workspace, editor, IDE, handwriting, box, etc.
+
 ## Project setup
 ```
 yarn install
