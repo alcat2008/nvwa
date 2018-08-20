@@ -3,6 +3,6 @@ module.exports = {
   //   devtool: 'eval-source-map'
   // },
   css: {
-    sourceMap: true
-  }
-}
+    sourceMap: true,
+  },
+};
